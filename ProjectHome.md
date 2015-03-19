@@ -1,0 +1,1 @@
+It manages your opened IE links. It is a one-click solution to save all the opened IE links and restore them.
